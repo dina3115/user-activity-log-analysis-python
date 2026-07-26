@@ -1,0 +1,3 @@
+source,events,total_duration_seconds,average_duration_seconds
+web,25,801,32.04
+mobile,13,461,35.46153846153846

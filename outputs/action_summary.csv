@@ -1,0 +1,7 @@
+action_type,action,events,total_duration_seconds,average_duration_seconds
+Access,login,15,107,7.133333333333334
+Navigation,view_dashboard,6,260,43.333333333333336
+Navigation,view_profile,5,121,24.2
+Content,create_post,4,690,172.5
+Navigation,view_page,4,67,16.75
+Access,logout,4,17,4.25
